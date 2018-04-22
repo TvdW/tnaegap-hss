@@ -7,7 +7,9 @@ The pageant.exe implementation that comes with PuTTY has a very limited implemen
 
 ### From a binary release
 
-(TODO)
+    # Cygwin only, for now
+    wget -O /bin/tnaegap-hss.exe https://github.com/TvdW/tnaegap-hss/releases/download/v0.0.1/tnaegap-hss.Cygwin.64-bit.exe
+    tnaegap-hss &
 
 ### From source
 
